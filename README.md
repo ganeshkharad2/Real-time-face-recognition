@@ -1,15 +1,21 @@
 # Real-time-face-recognition
 
+for methodology & understanding "Haar-cascade Detection in OpenCV" 
+do refer below link itcontains steps you need to follow to build this model-
+
+https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html
+
 here are steps you need to follow to build this model
 
 install opencv look this link for any help -- https://www.youtube.com/watch?v=QuxwAPuQDNo
 
-do refer
-https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html
 
 This video shows Demo
 
 https://www.youtube.com/watch?v=9uxh_z6QnA4&feature=youtu.be
+
+
+Step by step guide to reproduce the results as below.
 
 Requirements :-
 1- install python
